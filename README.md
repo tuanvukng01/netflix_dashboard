@@ -50,7 +50,7 @@ This project is designed to analyze Netflix data with the following steps:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/username/netflix-dashboard.git
+   git clone https://github.com/tuanvukng01/netflix_dashboard.git
    ```
 2. Review the SQL and Python scripts in the `/scripts` folder.
 3. Upload preprocessed data to Tableau or directly open the provided `.twbx` file.
